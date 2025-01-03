@@ -1,7 +1,5 @@
 # DSA_C
 Data Structures and Algorithms in C programming Language.
-<br>
-Author: Priyanshu Priyam
 ## Arrays
 1-D and 2-D Integer and Character Arrays.
 <br>
@@ -36,3 +34,11 @@ BFS and DFS Traversals.
 Minimum Spanning Tree.
 <br>
 Dijkstra Algorithm.
+## Author
+Priyanshu Priyam
+<br>
+[@ppriyanshu26](https://github.com/ppriyanshu26/)
+<br>
+https://www.linkedin.com/in/priyanshu-priyam-26d11m/
+## License
+[MIT License](LICENSE)
