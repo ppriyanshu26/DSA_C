@@ -1,5 +1,5 @@
 # DSA_C
-Data Structures and Algorithms in C programming Language.
+Data Structures and Algorithms in C Programming Language.
 ## Arrays
 1-D and 2-D Integer and Character Arrays.
 <br>
